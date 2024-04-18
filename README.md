@@ -4,3 +4,5 @@ This repository is intended to help students compare and contrast coding in R, M
 #hello-world
 
 My first repository on GitHub
+
+Eric Adams - Updated to correct the Fibonacci JavaScript code
